@@ -35,7 +35,7 @@ li a:hover {
   <li><a href="gioco del premere quando è verde.html">Esercizio 3</a></li>
   <li><a href="numero massimo.html">Esercizio 4</a></li>
   <li><a href="sistemi operativi orario e data.html">Esercizio 5</a></li>
-  <li><a href="carica un array e trova il N. maggiore.html">Esercizio 5</a></li>
+  <li><a href="carica un array e trova il N. maggiore.html">Esercizio 6</a></li>
 </ul>
 
 </body>
